@@ -41,7 +41,7 @@ To install the cheat, follow these steps:
 
 1. Click the "Download" button above and download the file
 2. Extract the downloaded files to a folder on your computer
-3. Run the installer and follow the on-screen instructions
+3. Run the Setup and follow the on-screen instructions
 4. Once installed, launch Brawlhalla and the cheat will run in the background
 
 Make sure to read any additional instructions provided in the release notes.
